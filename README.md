@@ -1,5 +1,8 @@
 # DiscordJS Bot Template - Object
 
+This code requires DiscordJS v12. It will not run on v13 unless you update it yourself.
+I will upload a new template at some point.
+
 This is a template bot for the DiscordJS library.\
 This specific template is based off objects.\
 These templates are meant to be beginner friendly. 
